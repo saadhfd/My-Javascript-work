@@ -2,7 +2,7 @@
 class Food {
     #typeOfFood : string;
     #quantity : number;
-  
+  //////
     constructor(typeOfFood : string, quantity : number) {
       this.#typeOfFood = typeOfFood;
       this.#quantity = quantity;
